@@ -1,0 +1,36 @@
+html{
+    background-color: floralwhite;
+    }
+body{
+    background-color: chartreuse;
+    margin:0 auto;
+    padding: 2px;
+    font-family: arial;
+    color: blue;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+h2{
+    text-align:center;    
+}
+div{
+    border-style: ov
+    width: 100%;
+    text-align: justify;
+    align-content: center;
+}
+#tabla{
+    width: auto;
+    border: 1px solid;
+    border-color: azure;
+    align-content: center
+    text-align: center;
+    color: aqua;
+    border-collapse: collapse;    
+}
+th, td{
+    text-align: left;
+    padding: 8px;
+}
